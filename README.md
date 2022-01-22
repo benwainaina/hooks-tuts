@@ -1,10 +1,12 @@
-# Getting Started with Create React App
+# React Hooks Tutorials
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a series on how to use React Hooks
 
-## Available Scripts
+## Concepts covered in order of update
 
-In the project directory, you can run:
+1. useState()
+
+## Using the project
 
 ### `npm start`
 
